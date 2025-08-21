@@ -1,4 +1,4 @@
-Exploring ChatGPT: How AI Language Models Are Changing Communication
+Exploring ChatGPT: How AI Language Models Are Changing Communication                                                                                                                                                                                                                            
 AI language models like ChatGPT are transforming how we interact with machines and each other. Built by OpenAI, ChatGPT can understand and respond naturally, making conversations feel more human. Here’s how this technology is changing communication:
 1.	Smarter Customer Support
 ChatGPT-powered chatbots offer 24/7 support, answering complex questions and holding natural conversations. This improves customer service while reducing business costs.
